@@ -8,3 +8,28 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
 ZCZC W00 60 L09 Weekly Assignments
+ZCZC W01 20 L01 General, etc.
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 30 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related (.md files included)
+ZCZC W01 10 L05 QUIZ + Reading materials for Week 1
+ZCZC W01 120 L08 OS Chat with Friend (yg udh ambil OS semester lalu + tanya-tanya)
+ZCZC W01 240 L09 Weekly Assignments
+ZCZC W01 180 L11 Assignment #01
+ZCZC W01 30 L12 Assignment #02
+ZCZC W01 30 L13 Assignment #03
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 60 L21 Trying something to dress up my Debian guest + make a .txt file directly inside terminal
+ZCZC W01 30 L27 Generating SSH Key and key-gen for my GitHub
+ZCZC W01 120 L31 VirtualBox: Installing Debian Linux guest + following tutorials from the cbkadal website on the VBox
+ZCZC W01 45 L40 TXT/ related in general (not the TXT music group -remember-)
+ZCZC W01 30 L41 TXT/mylog.txt related
+ZCZC W01 120 L60 Backup my precious files from my MacBook to my HDD (took me a while)
+ZCZC W01 20 L61 Install Virtual Box
+ZCZC W01 60 L62 Install Debian Linux Guest
+ZCZC W01 10 L64 Helping a friend regarding her OS weekly assignment (she's using UTM btw)
+ZCZC W01 240 L70 Doing StatProb and AdPro homeworks/tutorials
+ZCZC W01 45 L73 Playing 4 rounds of Pokemon Unite matches
+ZCZC W01 120 L81 Listening to Stray Kids' music while working on my weekly assignment
+ZCZC W01 60 L88 Jogging in my nearest sporting area
