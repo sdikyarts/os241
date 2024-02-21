@@ -33,3 +33,28 @@ ZCZC W01 240 L70 Doing StatProb and AdPro homeworks/tutorials
 ZCZC W01 45 L73 Playing 4 rounds of Pokemon Unite matches
 ZCZC W01 120 L81 Listening to Stray Kids' music while working on my weekly assignment
 ZCZC W01 60 L88 Jogging in my nearest sporting area
+ZCZC W02 20 L01 General, etc.
+ZCZC W02 10 L01 SCELE/Discord related
+ZCZC W02 180 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 10 L04 GitHub Pages related (editing LINKS)
+ZCZC W02 10 L05 QUIZ + Reading materials for Week 2
+ZCZC W02 20 L08 OS Chat with Friend
+ZCZC W02 120 L09 Weekly Assignments
+ZCZC W02 10 L11 Assignment #01
+ZCZC W02 40 L12 Assignment #02
+ZCZC W02 5 L13 Assignment #03
+ZCZC W02 5 L14 Assignment #04
+ZCZC W02 10 L15 Assignment #05
+ZCZC W02 20 L16 Assignment #06
+ZCZC W02 10 L22 tar related
+ZCZC W02 10 L23 bash related
+ZCZC W02 20 L26 GnuPG and key-gen
+ZCZC W02 60 L32 Watching OS materials on YouTube
+ZCZC W02 20 L40 TXT/ related
+ZCZC W02 20 L41 TXT/mylog.txt related
+ZCZC W02 20 L42 TXT/mypubkey.txt related
+ZCZC W02 20 L43 TXT/myrank.txt related (including peer review)
+ZCZC W02 20 L44 TXT/myscript.txt related
+ZCZC W02 20 L45 TXT/SHA256SUM related
+ZCZC W02 64 L64 Helping a friend (OS related problem)
