@@ -33,7 +33,7 @@ ZCZC W01 240 L70 Doing StatProb and AdPro homeworks/tutorials
 ZCZC W01 45 L73 Playing 4 rounds of Pokemon Unite matches
 ZCZC W01 120 L81 Listening to Stray Kids' music while working on my weekly assignment
 ZCZC W01 60 L88 Jogging in my nearest sporting area
-ZCZC W02 20 L01 General, etc.
+ZCZC W02 20 L00 General, etc.
 ZCZC W02 10 L01 SCELE/Discord related
 ZCZC W02 180 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 10 L03 GitHub related
