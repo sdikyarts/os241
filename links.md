@@ -31,6 +31,16 @@ C is a general-purpose programming language created by Dennis Ritchie at the Bel
 ### 7. [How to use the Linux wget command](https://www.ionos.com/digitalguide/server/configuration/linux-wget-command/#:~:text=wget%20is%20an%20important%20tool,such%20as%20Debian%20or%20Ubuntu.)
 The wget command is necessary in Linux if you want to download and access files from the Internet. This tutorial is easy to follow and shows a clear steps to use wget.
 
+## WEEK 03
+### 1. [Week03: C Programming](https://www.youtube.com/watch?v=F_o4mjBVbio&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=4&pp=iAQB)
+This article is taken from SOSI lecture, provides a brief explanation on how can we code with C language and implement it inside our Linux system.
+### 2. [Week04: File System & FUSE](https://www.youtube.com/watch?v=PBkZynNIZWk&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=5&pp=iAQB)
+Another lecture recording from SOSI lecture, this video shows us how File Systems are in Linux Programming, what FUSE is, and how these two actually work and be implemented inside Linux.
+### 3. [Phind.com](https://www.phind.com/)
+A better ChatGPT, this chatbot really helps me in solving problems regarding mounting in Linux
+### 4. [19. Partitions, File Systems, Formatting, Mounting](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html)
+This material provides a deep-down on how Partitons and File Systems are in Linux, also how can we format and mount in Linux OS.
+
 ## BONUS
 ### [TXT - Do It Like That](https://www.youtube.com/watch?v=C0EYKxF1oTI)
 TXT also exists as a real-life music group, not just a file type! This TXT stands for Tomorrow X Together. Go check their music, pretty uplifting!

@@ -58,3 +58,25 @@ ZCZC W02 20 L43 TXT/myrank.txt related (including peer review)
 ZCZC W02 20 L44 TXT/myscript.txt related
 ZCZC W02 20 L45 TXT/SHA256SUM related
 ZCZC W02 64 L64 Helping a friend (OS related problem)
+ZCZC W03 20 L00 General, etc.
+ZCZC W03 10 L01 SCELE/Discord related
+ZCZC W03 180 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 10 L03 GitHub related
+ZCZC W03 10 L04 GitHub Pages related (editing LINKS)
+ZCZC W03 10 L05 QUIZ + Reading materials for Week 3
+ZCZC W03 240 L09 Weekly Assignments
+ZCZC W03 10 L11 Assignment #01
+ZCZC W03 120 L12 Assignment #02
+ZCZC W03 10 L13 Assignment #03
+ZCZC W03 5 L14 Assignment #04
+ZCZC W03 60 L21 Try to fix the problem in my Linux mount
+ZCZC W03 30 L22 tar, mount related
+ZCZC W03 10 L23 bash related
+ZCZC W03 10 L25 C-language including Make.
+ZCZC W03 5 L27 SSH
+ZCZC W03 60 L32 Watching OS materials on YouTube
+ZCZC W03 20 L40 TXT/ related
+ZCZC W03 20 L41 TXT/mylog.txt related
+ZCZC W03 10 L43 TXT/myrank.txt related (including peer review)
+ZCZC W03 5 L44 TXT/myscript.txt related
+ZCZC W03 60 L63 Fixing Hardware Problems
