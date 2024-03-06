@@ -41,6 +41,12 @@ A better ChatGPT, this chatbot really helps me in solving problems regarding mou
 ### 4. [19. Partitions, File Systems, Formatting, Mounting](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html)
 This material provides a deep-down on how Partitons and File Systems are in Linux, also how can we format and mount in Linux OS.
 
+## WEEK 04
+### 1. [Week05: Addressing, Shared Lib, & Pointer](https://www.youtube.com/watch?v=uFj7mKNq1t0&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=6&pp=iAQB)
+This article is taken from SOSI lecture, provides a brief explanation on how Addressing, Shared Lib, & Pointer work in Linux
+### 2. [Variable Partitioning in Operation System](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
+This article provides interesting and insightful material about partitioning in Linux.
+
 ## BONUS
 ### [TXT - Do It Like That](https://www.youtube.com/watch?v=C0EYKxF1oTI)
 TXT also exists as a real-life music group, not just a file type! This TXT stands for Tomorrow X Together. Go check their music, pretty uplifting!
