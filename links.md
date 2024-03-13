@@ -47,6 +47,12 @@ This article is taken from SOSI lecture, provides a brief explanation on how Add
 ### 2. [Variable Partitioning in Operation System](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)
 This article provides interesting and insightful material about partitioning in Linux.
 
+## WEEK 05
+## 1. [Week06: Virtual Memory](https://www.youtube.com/watch?v=E7pmf5pySTM&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=8)
+This article is taken from SOSI lecture, provides a brief explanation on how Virtual Memory works in Linux
+## 2. [How To Select All In Vim/Vi Editor?](https://monovm.com/blog/how-to-select-all-in-vi-editor/#:~:text=To%20select%20all%20in%20Vim%2C%20use%20ggVG.,-It%20allows%20you&text=Then%2C%20with%20the%20V%20key,the%20conclusion%20of%20the%20file.)
+In [Week 05 Assignment #4: Memory](https://demos.vlsm.org/W05-04.html), we were asked to modify the memory/mymemory2.c file. Since the editor that I usually use (nano) didn’t allow me to select all content, I need to use Vi.
+
 ## BONUS
 ### [TXT - Do It Like That](https://www.youtube.com/watch?v=C0EYKxF1oTI)
 TXT also exists as a real-life music group, not just a file type! This TXT stands for Tomorrow X Together. Go check their music, pretty uplifting!

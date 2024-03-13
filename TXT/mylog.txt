@@ -100,3 +100,24 @@ ZCZC W04 20 L40 TXT/ related
 ZCZC W04 20 L41 TXT/mylog.txt related
 ZCZC W04 10 L43 TXT/myrank.txt related (including peer review)
 ZCZC W04 5 L44 TXT/myscript.txt related
+ZCZC W05 20 L00 General, etc.
+ZCZC W05 10 L01 SCELE/Discord related
+ZCZC W05 90 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 10 L04 GitHub Pages related (editing LINKS)
+ZCZC W05 10 L05 QUIZ + Reading materials for Week 5
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W05 10 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #03
+ZCZC W05 10 L13 Assignment #03
+ZCZC W05 10 L14 Assignment #04
+ZCZC W05 10 L14 Assignment #05
+ZCZC W05 10 L22 tar related
+ZCZC W05 10 L23 Bash related
+ZCZC W05 10 L25 C-language including Make
+ZCZC W05 10 L27 scp to os1.cs.ui.ac.id
+ZCZC W05 60 L32 Watching OS materials on YouTube
+ZCZC W05 20 L40 TXT/ related
+ZCZC W05 20 L41 TXT/mylog.txt related
+ZCZC W05 10 L43 TXT/myrank.txt related (including peer review)
+ZCZC W05 5 L44 TXT/myscript.txt related
