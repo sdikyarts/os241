@@ -54,10 +54,14 @@ This article is taken from SOSI lecture, provides a brief explanation on how Vir
 In [Week 05 Assignment #4: Memory](https://demos.vlsm.org/W05-04.html), we were asked to modify the memory/mymemory2.c file. Since the editor that I usually use (nano) didn’t allow me to select all content, I need to use Vi.
 
 ## WEEK 06
-### 1. [Week07: Process & Concurrency](ristek.link/week07linkos)
+### 1. [Week07: Process & Concurrency](https://www.youtube.com/watch?v=-pL2fAdb7Kw&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=8&pp=iAQB)
 This article is taken from SOSI lecture, tells about how Process and Concurrency works in Linux and how it builds the Fork process.
 ### 2. [About Docusaurus](ristek.link/docusauruss)
 Docusaurus is a static-site generator made by Meta Open Source (Facebook) which utilizes the node.js framework. You can try making another Docusaurus project using either JavaScript or TypeScript languages!!
+
+## WEEK 07
+### 1. [Week08: Threads and Synchronization](https://www.youtube.com/watch?v=Z5D3z3AzXII&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=9)
+This article is taken from SOSI lecture, provides a brief explanation on how Threads and Synchronization work in Linux
 
 ## BONUS
 ### [TXT - Do It Like That](https://www.youtube.com/watch?v=C0EYKxF1oTI)
