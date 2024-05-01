@@ -63,6 +63,12 @@ Docusaurus is a static-site generator made by Meta Open Source (Facebook) which 
 ### 1. [Week08: Threads and Synchronization](https://www.youtube.com/watch?v=Z5D3z3AzXII&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=9)
 This article is taken from SOSI lecture, provides a brief explanation on how Threads and Synchronization work in Linux
 
+## WEEK 08
+### 1. [Week09: Scheduling](https://www.youtube.com/watch?v=Gzic0dI3qQc&list=PLBXapj649rh9UKCBfJEyEUN5Ulvfq1s96&index=10)
+This article is taken from SOSI lecture, provides a brief explanation on how Scheduling works in Linux. This video is insightful.
+### 2. [How To Create Your Own Linux-Based Operating System](https://medium.com/@jashaswimalyaacharjee/how-to-create-your-own-linux-based-operating-system-dcfd5ab3bd52)
+This Medium page shows us how can we create our own LFS with simple yet helpful explanations.
+
 ## BONUS
 ### [TXT - Do It Like That](https://www.youtube.com/watch?v=C0EYKxF1oTI)
 TXT also exists as a real-life music group, not just a file type! This TXT stands for Tomorrow X Together. Go check their music, pretty uplifting!
